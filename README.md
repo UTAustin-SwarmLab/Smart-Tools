@@ -39,11 +39,13 @@ Refer [data_README.md](data_README.md).
 
 
 
+
 # TODO
 
 - [X] Add data links
 - [X] Rename Tree - Level 1 folders (anonymize subjects)
 - [X] Rename Tree - Level 2 folders (anonymize subjects)
+
 - [x] Add scripts to run ALL plots
   - [X] data vs accuracy
   - [x] sensor comparisons
@@ -51,6 +53,5 @@ Refer [data_README.md](data_README.md).
 - [x] Write meaning of each column in the data in ~~README.md~~ data_README.md
 - [x] Add comments in the code
 - [x] Improve README to include installation instructions
-- [x] Create separate data_README to explain data collection and analysis in more detail  
-
+- [x] Create separate data_README to explain data collection and analysis in more detail 
  
