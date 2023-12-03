@@ -4,26 +4,38 @@ This is the Code repository of our paper titled "Using human and robot synthetic
 
 Link to paper: `Add paper to arxiv then update here`
 
+# Table of Contents
+
+- TLDR
+- Usage
+- Data
 
 # Usage
 
-1. Install Poetry if you don't have it already:
+## 1. Packages
+Install Poetry if you don't have it already:
 
   ```
   pipx install poetry
   ```
 
-2. Clone the repository and change directory:
+## 2. Data
+
+Refer [data_README.md](data_README.md).
+
+## 3. Code
+
+1. Clone the repository and change directory, 
   ```
   git clone git@github.com:UTAustin-SwarmLab/Smart-Tools.git
   ```
 
-3. Install dependencies using Poetry: 
+2. Install dependencies using Poetry: 
   ```
   poetry install
   ```
 
-4. Make sure you choose the virtual environment created by Poetry as the Python interpreter for running the project's code!
+3. Make sure you choose the virtual environment created by Poetry as the Python interpreter for running the project's code!
 
 
 
@@ -38,5 +50,7 @@ Link to paper: `Add paper to arxiv then update here`
   - [x] id ood barplot
 - [x] Write meaning of each column in the data in ~~README.md~~ data_README.md
 - [x] Add comments in the code
+- [x] Improve README to include installation instructions
+- [x] Create separate data_README to explain data collection and analysis in more detail  
 
  
